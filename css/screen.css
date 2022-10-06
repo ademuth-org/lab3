@@ -218,6 +218,12 @@ h1 {
   text-align: center;
 }
 
+
+@media screen and (min-width: 510px) {
+  input {
+    width: 100%;
+  }
+}
 /* ===== LAYOUT STYLES ====== */
 
 
