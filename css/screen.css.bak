@@ -208,6 +208,8 @@ input {
   width: 90%;
   padding: 10px;
   margin: 5px;
+  border-style: hidden;
+  background-color: #AAAAAA
 }
 
 /* ===== LAYOUT STYLES ====== */
