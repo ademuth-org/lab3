@@ -210,7 +210,8 @@ input {
   margin: 5px;
   border-style: hidden;
   border-radius: 10px;
-  background-color: #AAAAAA
+  background-color: #AAAAAA;
+  text-align: center;
 }
 
 h1 {
@@ -222,6 +223,7 @@ h1 {
 @media screen and (min-width: 510px) {
   input {
     width: 100%;
+	text-align: left;
   }
 }
 /* ===== LAYOUT STYLES ====== */
