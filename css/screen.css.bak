@@ -202,13 +202,6 @@ label {
   display: block;
 }
 
-input {
-  box-sizing: border-box;
-  width: 90%;
-  padding: 10px;
-  margin: 5px;
-}
-
 /* ===== LAYOUT STYLES ====== */
 
 
