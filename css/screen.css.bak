@@ -219,13 +219,10 @@ h1, p {
   text-align: center;
 }
 
-input-email {
+input-email, input-age-verification  {
   text-align: center;
 }
 
-input-age-verification {
-  text-align: center;
-}
 
 
 @media screen and (min-width: 510px) {
@@ -236,6 +233,12 @@ input-age-verification {
   label {
     text-align: left;
   }
+  input-email, input-age-verification  {
+    text-align: left;
+  }
+}
+
+
 }
 /* ===== LAYOUT STYLES ====== */
 
