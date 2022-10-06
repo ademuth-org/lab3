@@ -214,7 +214,7 @@ input {
   text-align: center;
 }
 
-h1 {
+h1, p {
   padding: 10px;
   text-align: center;
 }
