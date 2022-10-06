@@ -223,7 +223,9 @@ h1, p {
 @media screen and (min-width: 510px) {
   input {
     width: 100%;
-	text-align: left;
+  }
+  label {
+    text-align: left;
   }
 }
 /* ===== LAYOUT STYLES ====== */
