@@ -223,6 +223,7 @@ h1, p {
 
 #input-email, #input-age-verification  {
   text-align: center;
+  background-color: #808080;
 }
 
 #age-verification {

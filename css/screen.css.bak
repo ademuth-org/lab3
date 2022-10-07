@@ -212,6 +212,12 @@ input {
   border-radius: 10px;
   background-color: #AAAAAA;
   text-align: center;
+  vertical-align: bottom;
+  position: relative;
+}
+
+li {
+	background-color: #808080;
 }
 
 h1, p {
@@ -224,7 +230,7 @@ h1, p {
 }
 
 #age-verification {
-  text-align: center;
+  text-align: left;
 }
 
 
