@@ -212,6 +212,8 @@ input {
   border-radius: 10px;
   background-color: #AAAAAA;
   text-align: center;
+  vertical-align: bottom;
+  position: relative;
 }
 
 h1, p {
@@ -223,6 +225,9 @@ h1, p {
   text-align: center;
 }
 
+#age-verification {
+  text-align: left;
+}
 
 
 @media screen and (min-width: 510px) {
