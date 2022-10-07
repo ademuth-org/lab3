@@ -216,10 +216,6 @@ input {
   position: relative;
 }
 
-li {
-	background-color: #808080;
-}
-
 h1, p {
   padding: 10px;
   text-align: center;
@@ -227,6 +223,7 @@ h1, p {
 
 #input-email, #input-age-verification  {
   text-align: center;
+  background-color: #808080;
 }
 
 #age-verification {
